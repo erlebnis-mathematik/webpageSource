@@ -1,0 +1,57 @@
+{{ if isset .Site.Params "recent_posts" }}
+{{ if .Site.Params.recent_posts.enable }}
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>Öffnungszeiten</h2>
+            </div>
+
+
+
+            <!-- *** BLOG HOMEPAGE *** -->
+
+            <div class="row">
+
+                <div class="col-md-6 col-sm-6">
+<img src="{{ .Site.BaseURL}}/img/frontpage.png" class="img-responsive" alt="" >
+                    <!-- /.box-image-text -->
+
+                </div>
+
+                <div class="col-md-6 col-sm-6">
+            <p class="lead">
+    Aktuelle Öffnungszeiten:
+            </p>
+        <p class="text-large">  Donnerstag, 21. Juni 2018 16-18 Uhr    </p>
+        <p class="text-large">  Donnerstag, 28. Juni 2018 16-18 Uhr    </p>
+        <p class="text-large">  Donnerstag, 12. Juli 2018 17-19 Uhr    </p>
+        <p class="lead">&nbsp;</p>
+
+            <p class="lead">
+    Kontaktieren Sie uns unter:
+erlebnis.mathematik@gmx.at
+oder
++436763851749
+            </p>
+
+            <p class="lead">
+Offizielle Eröffnung: Ende September 2018
+            </p>
+
+                </div>
+
+
+            </div>
+            <!-- /.row -->
+
+            <!-- *** BLOG HOMEPAGE END *** -->
+
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}

@@ -1,0 +1,108 @@
+
+
+# baseURL = "https://erlebnis-mathematik.github.io/"
+baseURL = "/"
+title = "Erlebnis-Mathematik"
+theme = "universal-jane"
+languageCode = "en-us"
+defaultContentLanguage = "de"
+
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Events"
+    identifier = "Events"
+    url  = "/events/"
+    weight = 3
+
+[[menu.main]]
+    name = "Archiv"
+    identifier = "Archiv"
+    url  = "/blog/"
+    weight = 4
+
+[[menu.main]]
+    name = "Kontakt"
+    url  = "/contact/"
+    weight = 2
+
+# Top bar social links menu
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Markus"
+    defaultKeywords = []
+    defaultDescription = ""
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyDIX8hO56-VqTQVWdcFDuneSbKh8QcKjPY"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "marsala"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "erlebnis-mathematik@gmx.at"
+
+    about_us = "<p>Erlebnis Mathematik Museum</p>"
+    copyright = "Copyright (c) 2018, Gerlinde Faustmann; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    address = ""
+    #  address = """<p><Erlebnis Mathematik</strong>
+    #      <br>Bahngasse 43
+    #      <br>3.Stock
+    #      <br>2700 Wiener Neustadt
+  #        <br>Österreich
+ #        </p>
+ #        """
+    latitude = "47.811507"
+    longitude = "16.234999"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = false
+    text = ""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+
+[params.recent_posts]
+    enable = true
+    title = "News"
+    subtitle = "Erfahren Sie mehr über aktuelle Events und Austellungsstücke unseres Museums."

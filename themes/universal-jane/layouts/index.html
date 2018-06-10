@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body class="home custom-background ">
+
+    <div id="all">
+     <div class="wrapper">
+        <header>
+
+
+        {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "carousel.html" . }}
+  
+
+        {{ partial "oeffnungszeiten.html" . }}
+
+        {{ partial "recent_posts.html" . }}
+
+        {{ partial "footer.html" . }}
+
+     </div>
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
