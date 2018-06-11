@@ -7,7 +7,7 @@ theme = "universal-jane"
 languageCode = "en-us"
 defaultContentLanguage = "de"
 
-googleAnalytics = ""
+googleAnalytics = "UA-120643784-1"
 
 # Define the number of posts per page
 paginate = 10
