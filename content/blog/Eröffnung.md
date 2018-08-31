@@ -7,5 +7,4 @@ banner = "img/banners/Eingang.JPG"
 author = "Gerlinde Faustmann"
 +++
 
-Die Eröffnung des Museums steht bald bevor.
-Der genaue Termin wird in Kürze bekanntgegeben.
+Der offene Raum "Erlebnis Mathematik" wird am 29. September feierlich eröffnet.

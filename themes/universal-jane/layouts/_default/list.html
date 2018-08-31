@@ -25,6 +25,7 @@
 
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
                         {{ range $paginator.Pages }}
+
                         <section class="post">
                             <div class="row">
                                 <div class="col-md-4">
@@ -36,6 +37,7 @@
                                           <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
                                           {{ end }}
                                       </a>
+
                                   </div>
                                 </div>
                                 <div class="col-md-8">
