@@ -1,6 +1,6 @@
 +++
 title = "Eröffnung"
-date = "2018-03-02T21:49:20+02:00"
+date = "2018-09-01T10:49:20+02:00"
 tags = ["Mathematik","Museum","Wiener Neustadt"]
 categories = ["museum"]
 banner = "img/banners/Eingang.JPG"

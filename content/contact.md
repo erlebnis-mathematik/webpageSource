@@ -10,6 +10,8 @@ id = "contact"
 <br>2700 Wiener Neustadt
 <br>Österreich
 <br>&nbsp;
+<br> E-Mail: [erlebnis.mathematik@gmx.at](mailto:erlebnis.mathematik@gmx.at)
+<br> Telefon: +436763851749
 
 ## Betreiberin
 
@@ -19,4 +21,4 @@ id = "contact"
 
 
 
-lässt die Schönheit der Mathematik mittels historischer Rechenhilfsmitteln, antiquarischer Instrumente und Bücher, Tafeln, Mathematiker-Biographien,  Zahlen und Figuren,  Abbildungen und Konstruktionen uva. für Jung und Alt erleben.
+lässt die Schönheit der Mathematik durch historische Rechenhilfsmittel, antiquarischer Instrumente und Bücher, Tafeln, Mathematiker-Biographien,  Zahlen und Figuren,  Abbildungen und Konstruktionen uva. für Jung und Alt erleben.
