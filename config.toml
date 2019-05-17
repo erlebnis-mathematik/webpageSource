@@ -113,4 +113,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "News"
-    subtitle = "Erfahren Sie mehr über aktuelle Events und Austellungsstücke unseres Museums."
+    subtitle = "Erfahren Sie mehr über aktuelle und vergangene Events und Austellungsstücke unseres Museums."
