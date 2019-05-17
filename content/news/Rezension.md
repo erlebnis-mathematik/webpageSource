@@ -1,7 +1,7 @@
 +++
 title = "Presse-Artikel in NÖN"
 date = "2018-08-22T17:49:20+02:00"
-tags = ["Mathematik","Museum","Wiener Neustadt"]
+tags = ["Mathematik","Museum","Presse"]
 categories = ["museum"]
 banner = "img/banners/Noen.jpg"
 author = "Gerlinde Faustmann"
