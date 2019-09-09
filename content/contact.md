@@ -10,7 +10,7 @@ id = "contact"
 <br>2700 Wiener Neustadt
 <br>Österreich
 <br>&nbsp;
-<br> E-Mail: [erlebnis.mathematik@gmx.at](mailto:erlebnis.mathematik@gmx.at)
+<br> E-Mail: [erlebnis-mathematik@gmx.at](mailto:erlebnis-mathematik@gmx.at)
 <br> Telefon: +436763851749
 
 ## Betreiberin
