@@ -6,7 +6,7 @@ categories = ["Vorträge"]
 banner = "img/banners/TalkGP.jpg"
 +++
 
-Am Freitag, 17. 1. 2020 gibt DI Dr. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel "Mathematik in der Energiewirtschaft - Rückblick, Status, Ausblick".
+Am Freitag, 17. 1. 2020 gab DI Dr. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel "Mathematik in der Energiewirtschaft - Rückblick, Status, Ausblick".
 
 ![Gerlinde Faustmann](/img/talks/TalkGP.jpg)
 (Quelle: Wikipedia)
@@ -20,3 +20,9 @@ Der Vortrag versucht sich der Fragestellung in drei miteinander verwobenen Gesch
 
 Öfters werden wir auf duale Begriffspaare wie "theoretisch / angewandt" oder "diskret / kontinuierlich", "nicht-/ linear"  oder "deterministisch / stochastisch" stoßen, die erläutert werden und deren Widersprüchlichkeit aufzulösen ist.
 Im Ausblick wird auch kritisch zu hinterfragen sein, ob nicht mathematische Modelle durch "Artificial Intelligence" oder gar Mathematiker durch "Learning Machines" abgelöst werden.
+
+Nachfolgend sind einige Impressionen des interessanten ausgebuchten Vortrags. 
+
+![Gerlinde Faustmann](/img/talks/TalkGP2.JPG)
+
+![Gerlinde Faustmann](/img/talks/TalkGP3.JPG)

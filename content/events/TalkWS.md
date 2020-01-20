@@ -6,7 +6,7 @@ categories = ["Vorträge"]
 banner = "img/banners/WSTalk.png"
 +++
 
-Am Donnerstag, 21. 11. 2019 und Freitag, 22. 11. 2019 gibt Univ.Prof.i.R. Dr.phil. Werner Schulze im Erlebnis Mathematik einen Vortrag mit dem Titel "Musik, Mathematik, Harmonik – auch unter kreativem Aspekt".
+Am Donnerstag, 21. 11. 2019 und Freitag, 22. 11. 2019 gab Univ.Prof.i.R. Dr.phil. Werner Schulze im Erlebnis Mathematik einen Vortrag mit dem Titel "Musik, Mathematik, Harmonik – auch unter kreativem Aspekt".
 
 ![](/img/talks/WSTalk.png)
 
@@ -21,3 +21,10 @@ Tyrannen · Zahlen mit dem Ohr verstehen, Primzahlen hören · Einblick ins
 Kosmologie · Conrad Henfling (1648-1716) · Betrachtung einer
 Semmel · Calculus differentialis: Eine Oper über Mathematik · Über den
 Zusammenhang der Zahl 5040 mit dem DIN-Format.
+
+Nachfolgend sind einige Impressionen des interessanten und zweimal ausgebuchten Vortrags.
+![](/img/talks/WSTalk1.jpg)
+
+![](/img/talks/WSTalk2.jpg)
+
+![](/img/talks/WSTalk3.jpg)
