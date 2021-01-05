@@ -6,7 +6,7 @@ categories = ["Vorträge"]
 banner = "img/banners/TalkMichi.jpg"
 +++
 
-Am Freitag, 20. 3. 2020 gibt Univ.-Prof. DI Dr. Michael Feischl im Erlebnis Mathematik einen Vortrag mit dem Titel "Die Mathematik der Mondlandung".
+In näherer Zukunft gibt Univ.-Prof. DI Dr. Michael Feischl im Erlebnis Mathematik einen Vortrag mit dem Titel "Die Mathematik der Mondlandung".
 
 ![Gerlinde Faustmann](/img/talks/TalkMichi.jpg)
 (Quelle: Wikipedia)
