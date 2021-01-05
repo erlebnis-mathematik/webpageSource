@@ -73,7 +73,7 @@ paginate = 10
     email = "erlebnis-mathematik@gmx.at"
 
     about_us = "<p>Erlebnis Mathematik Museum</p>"
-    copyright = "Copyright (c) 2018, Gerlinde Faustmann; all rights reserved."
+    copyright = "Copyright (c) 2018-2021, Gerlinde Faustmann; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
