@@ -1,6 +1,6 @@
 +++
 title = "QuarZa - Quartett der Geschichte der Zahlen"
-date = "2021-01-05"
+date = "2022-03-27"
 tags = ["Ausstellungsstück","QuarZa"]
 categories = ["Austellung"]
 banner = "img/banners/Quartettsmall.jpg"

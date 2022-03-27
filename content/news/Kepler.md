@@ -14,6 +14,6 @@ banner = "img/banners/Kepler.jpg"
 </center>
 
 <p>
-Im Mai 2022 wird es Jubiläumsveranstaltungen im
+Am 10. und 11. Juni 2022 wird es Jubiläumsveranstaltungen im
 Erlebnis-Mathematik geben.
 </p>
