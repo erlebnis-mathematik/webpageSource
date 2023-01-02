@@ -22,3 +22,12 @@ Die genealogische Forschung der eigenen Familie wurde in jüngster Zeit durch
 die Möglichkeit eines weiträumigen Online-Zugriffes zu Kirchenmatriken enorm
 erleichtert. Im Vortrag wird eine kurze Anleitung dazu gegeben, wie man in dieses
 faszinierende Hobby einsteigt.
+
+Die Folien zu dem interessanten Vortrag finden Sie hier:
+<a href="/img/talks/FJVSlides.pdf">Link zu den Folien.</a>
+
+Nachfolgend sind noch einige Impressionen des Vortrags.
+
+![FJV](/img/talks/FJVTalk1.jpg)
+![FJV](/img/talks/FJVTalk2.jpg)
+![FJV](/img/talks/FJVTalk3.jpg)
