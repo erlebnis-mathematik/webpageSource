@@ -13,3 +13,8 @@ Am 14.3.2025 geben Mag. Franz Josef Vrabec und Dr. Gerold Petritsch im Erlebnis 
 
 Inhalt: Kurioses und Amüsantes über die Zahl Pi, insbesonders ob sie
 eine “normale” Zahl ist und Nadelversuch nach Buffon.
+
+Nachfolgend sind einige Impressionen des interessanten Vortrags.
+
+![Gerlinde Faustmann](/img/talks/TalkPIDay1.jpg)
+![Gerlinde Faustmann](/img/talks/TalkPIDay2.jpg)
