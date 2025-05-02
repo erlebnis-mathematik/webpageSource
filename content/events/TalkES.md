@@ -10,3 +10,8 @@ Am <b>Freitag 15.3.2024</b> um 18:30 gibt <b>DI Erwin Sulzgruber</b> im Erlebnis
 Datenbanken wissen wollten" (aber sich nicht getraut haben zu fragen).
 
 ![GP](/img/banners/TalkES.jpg)
+
+Nachfolgend sind einige Impressionen des interessanten Vortrags.
+
+![Bild](/img/talks/Sulzgruber13_1.jpg)
+![Bild](/img/talks/Sulzgruber13_2.jpg)
